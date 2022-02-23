@@ -15,6 +15,7 @@ nose = "*"
 arviz = "*"
 pymc3 = "*"
 numpy = "==1.20.3"
+graphviz = "*"
 
 [dev-packages]
 
